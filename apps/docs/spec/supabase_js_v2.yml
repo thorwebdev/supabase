@@ -2950,7 +2950,7 @@ functions:
 
   - id: update
     $ref: '@supabase/postgrest-js.PostgrestQueryBuilder.update'
-  
+
   - id: upsert
     title: 'Upsert data: upsert()'
     $ref: '@supabase/postgrest-js.PostgrestQueryBuilder.upsert'
